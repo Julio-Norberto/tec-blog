@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: sans-serif;
+    background: rgb(219, 209, 209);
+}
+
+.header {
+    background-color: rgb(253, 189, 39);
+    text-align: center;
+    padding: 30px;
+}
+
+.logo{
+    font-size: 50px;
+}
+
+.menu a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    
+}
+
+a:hover{
+    color: rgb(240, 205, 6);
+    background-color: white;
+    font-weight: bold;
+}
+
+.area-postagens{
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.conteudos{
+    float: left;
+    width: 640px; 
+    padding: 10px;
+    background-color: white;
+}
+
+.menu-lateral{
+    float: right;
+    width: 220px;
+    background-color: white;
+    padding: 10px;
+}
+
+.categorias{
+    width: 220px;
+    float: right;
+    background-color: white;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.categorias a{
+    color: orange;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.categorias a:hover{
+    text-decoration: underline;
+}
+
+h1{
+    color: orange;
+}
+
+h3{
+    background-color: rgb(190, 176, 176);
+}
+
+.branco{
+    color: white;
+}
+
+.conteudo2{
+    width: 180px;
+    padding: 30px;
+    background-color: white;
+}
+
+.leiamais{
+    color: rgba(250, 178, 9, 0.986);
+    padding: 0;
+}
+
+.footer{
+    clear: both;
+    padding: 20px;
+    text-align: center;
+}
